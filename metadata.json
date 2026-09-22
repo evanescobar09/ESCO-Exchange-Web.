@@ -1,0 +1,6 @@
+{
+  "name": "ESCO Exchange - Luxury Watch Reselling",
+  "description": "Luxury Watches. Better Prices. Personal Service. Authentic pre-owned luxury watches with transparent pricing and personal concierge service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
